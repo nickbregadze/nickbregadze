@@ -1,53 +1,27 @@
-I'm a Junior Cybersecurity & IT Security Trainee based in **Georgia** 🇬🇪. 
+# Hi, I'm Nick. 👋
 
-I don't just run tools; I try to understand *why* they work. I've spent the last year transitioning from theory to practice—breaking web apps in controlled environments, analyzing packet captures, and automating tasks with Python. I'm currently looking for a **Junior Security, SOC, or IT role** (Open to Remote).
+I'm an aspiring Software Engineer and Cybersecurity enthusiast based in Tbilisi, Georgia. I am currently preparing to join the **Computer Science & Artificial Intelligence** program at BTU (Fall 2026).
 
----
+My foundation is in offensive security and penetration testing, and I am currently applying that "security-first" mindset to software engineering, specifically in Data Privacy and Python development.
 
-### 🛠️ Technical Arsenal
+### 🛡️ Cybersecurity & Ethical Hacking
+*   **SCSA Certification:** Completed an intensive penetration testing program at the **Scientific Cyber Security Association (SCSA)**, learning advanced offensive security methodologies under the instruction of Sergei Simonov and other top-tier industry professionals. ([View my CV & Certificate here](https://github.com/nickbregadze/theshrico/blob/main/CV.pdf))
+*   **[Web Security Methodology](https://github.com/nickbregadze/web-security-notes):** A documented repository of my notes, techniques, and methodologies for identifying and exploiting web vulnerabilities.
+*   **[Capstone Pentest Report](https://github.com/nickbregadze/capstone-project-summary):** A summary of my practical capstone project, demonstrating my ability to conduct vulnerability assessments and write professional security reports.
 
-I focus on Linux-based offensive tools and network analysis.
+### 🛠️ Current Software Engineering Focus
+*   **PII Anonymizer Engine:** Building an OOP-based Python tool that intercepts strings, detects Personally Identifiable Information (PII) using `datafog`, and encrypts the sensitive data locally using `cryptography.fernet` before it touches an LLM.
+*   **Algorithmic Training:** Actively solving algorithmic challenges to bridge the gap between scripting and software architecture (Currently **5kyu** on Codewars).
 
-*   **OS:** Linux (Kali expert, daily driver), Windows
-*   **Network Analysis:** Wireshark, Cisco Packet Tracer, TCP/IP deep dives
-*   **Web Security:** Burp Suite, OWASP Top 10 (XSS, SQLi, LFI), Gobuster
-*   **Scanners & Exploitation:** Nmap, Metasploit
-*   **Coding:** Python (Security-focused scripting)
+### 💻 Tech Stack & Tools
+*   **Languages:** Python 3, Bash
+*   **Security Tools:** Burp Suite, Nmap, Metasploit, Linux CLI
+*   **Development:** Object-Oriented Programming (OOP), Git, VS Code, `cryptography`
 
----
-
-### 🚀 Featured Projects & Experience
-
-#### 🛡️ SCSA Capstone: Web Application Security
-*A real-world style black-box penetration test.*
-*   **Recon:** Uncovered hidden backend logic files (`/js/auth.js`) using **Gobuster** to understand the authentication flow.
-*   **Exploitation:** Executed a stored/reflected **XSS attack** to demonstrate **Session Hijacking** via cookie theft.
-*   **Reporting:** Documented the full attack surface and provided remediation steps for developers.
-
-#### 🚩 Labs & CTFs (TryHackMe / DVWA)
-I believe in "learning by doing." I have completed:
-*   **TryHackMe:** All major beginner paths + intermediate labs.
-*   **DVWA:** Manually exploited vulnerabilities (SQLi, File Inclusion) to understand the code behind the flaw.
+### 📈 Stats & Links
+*   **Resume/CV:**[Read my full CV](https://github.com/nickbregadze/theshrico/blob/main/CV.pdf)
+*   **Codewars:** [Link to your Codewars profile]
+*   **LinkedIn:**[Link to your LinkedIn]
 
 ---
-
-### 🎓 Certifications
-
-**Comprehensive Cybersecurity Training Program** | *Scientific Cyber Security Association (SCSA)*
-*Successfully completed Nov 2025*
-> A rigorous practical course covering Ethical Hacking I & II, Linux, and Network Security under the mentorship of industry experts (Sergei Simonovi, Ketevan Grdzelidze, Irakli Pirtskhalava).
-
----
-
-### 📄 My CV / Resume
-
-Want the full details? You can view or download my resume below:
-
-[**📥 Download my CV (PDF)**](./CV.pdf)
-
----
-
-### 📫 Connect with me
-
-*   **Email:** [nickbregadze@gmail.com](mailto:nickbregadze@gmail.com)
-*   **GitHub:** [github.com/theshrico](https://github.com/theshrico)
+*"Building secure systems requires knowing how to break them first."*
