@@ -18,10 +18,10 @@ My foundation is in offensive security and penetration testing, and I am current
 *   **Security Tools:** Burp Suite, Nmap, Metasploit, Linux CLI
 *   **Development:** Object-Oriented Programming (OOP), Git, VS Code, `cryptography`
 
-### 📈 Stats & Links
+### 📈 CV & Contact info
 *   **Resume/CV:**[Read my full CV](https://github.com/nickbregadze/theshrico/blob/main/CV.pdf)
-*   **Codewars:** [Link to your Codewars profile]
-*   **LinkedIn:**[Link to your LinkedIn]
+*   **Github:** [Link to my Github page](https://github.com/nickbregadze/)
+*   **Discord:** [Contact me(https://discord.com/users/391817508224499722)]
 
 ---
 *"Building secure systems requires knowing how to break them first."*
