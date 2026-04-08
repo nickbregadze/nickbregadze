@@ -21,7 +21,7 @@ My foundation is in offensive security and penetration testing, and I am current
 ### 📈 CV & Contact info
 *   **Resume/CV:**[Read my full CV](https://github.com/nickbregadze/theshrico/blob/main/CV.pdf)
 *   **Github:** [Link to my Github page](https://github.com/nickbregadze/)
-*   **Discord:** [Contact me(https://discord.com/users/391817508224499722)]
+*   **Discord:** [Contact me](https://discord.com/users/391817508224499722)
 
 ---
 *"Building secure systems requires knowing how to break them first."*
