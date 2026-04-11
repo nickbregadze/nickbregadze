@@ -5,7 +5,7 @@ I'm an aspiring Software Engineer and Cybersecurity enthusiast based in Tbilisi,
 My foundation is in offensive security and penetration testing, and I am currently applying that "security-first" mindset to software engineering, specifically in Data Privacy and Python development.
 
 ### 🛡️ Cybersecurity & Ethical Hacking
-*   **SCSA Certification:** Completed an intensive penetration testing program at the **Scientific Cyber Security Association (SCSA)**, learning advanced offensive security methodologies under the instruction of Sergei Simonov and other top-tier industry professionals. ([View my CV & Certificate here](https://github.com/nickbregadze/theshrico/blob/main/CV.pdf))
+*   **SCSA Certification:** Completed an intensive penetration testing program at the **Scientific Cyber Security Association (SCSA)**, learning advanced offensive security methodologies under the instruction of Sergei Simonov and other top-tier industry professionals. ([View my CV & Certificate here](https://github.com/nickbregadze/nickbregadze/blob/main/CV.pdf))
 *   **[Web Security Methodology](https://github.com/nickbregadze/web-security-notes):** A documented repository of my notes, techniques, and methodologies for identifying and exploiting web vulnerabilities.
 *   **[Capstone Pentest Report](https://github.com/nickbregadze/capstone-project-summary):** A summary of my practical capstone project, demonstrating my ability to conduct vulnerability assessments and write professional security reports.
 
