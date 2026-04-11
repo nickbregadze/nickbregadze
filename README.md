@@ -1,22 +1,23 @@
 # Hi, I'm Nick. 👋
 
-I'm an aspiring Software Engineer and Cybersecurity enthusiast based in Tbilisi, Georgia. I am currently preparing to join the **Computer Science & Artificial Intelligence** program at BTU (Fall 2026).
+Pentester and aspiring Software engineer from Tbilisi, Georgia. Heading to BTU for CS & AI this Fall.
 
-My foundation is in offensive security and penetration testing, and I am currently applying that "security-first" mindset to software engineering, specifically in Data Privacy and Python development.
+I started in offensive security—learning how systems break. Now, I'm focused on software engineering to build secure, privacy-first systems. 
 
-### 🛡️ Cybersecurity & Ethical Hacking
-*   **SCSA Certification:** Completed an intensive penetration testing program at the **Scientific Cyber Security Association (SCSA)**, learning advanced offensive security methodologies under the instruction of Sergei Simonov and other top-tier industry professionals. ([View my CV & Certificate here](https://github.com/nickbregadze/nickbregadze/blob/main/CV.pdf))
-*   **[Web Security Methodology](https://github.com/nickbregadze/web-security-notes):** A documented repository of my notes, techniques, and methodologies for identifying and exploiting web vulnerabilities.
-*   **[Capstone Pentest Report](https://github.com/nickbregadze/capstone-project-summary):** A summary of my practical capstone project, demonstrating my ability to conduct vulnerability assessments and write professional security reports.
+### 🛡️ Security & Pentesting
+*   **[SCSA Certification](https://github.com/nickbregadze/nickbregadze/blob/main/CV.pdf):** Penetration testing specialization under ethical hacker Sergei Simonov.
+*   **[Web Security Methodology](https://github.com/nickbregadze/web-security-notes):** My personal documentation for identifying and exploiting web vulnerabilities.
+*   **[Capstone Pentest](https://github.com/nickbregadze/capstone-project-summary):** Practical vulnerability assessment and professional security reporting.
 
-### 🛠️ Current Software Engineering Focus
-*   **PII Anonymizer Engine:** Building an OOP-based Python tool that intercepts strings, detects Personally Identifiable Information (PII) using `datafog`, and encrypts the sensitive data locally using `cryptography.fernet` before it touches an LLM.
-*   **Algorithmic Training:** Actively solving algorithmic challenges to bridge the gap between scripting and software architecture (Currently **5kyu** on Codewars).
+### 🛠️ Current Builds
+*   **PII Anonymizer Engine:** An OOP-based Python tool that detects PII using `datafog` and locally encrypts it with `cryptography.fernet` before passing data to LLMs.
+*   **Codewars:** Training algorithmic logic to bridge the gap between scripting and software architecture.
 
-### 💻 Tech Stack & Tools
+### 💻 Tech Stack
 *   **Languages:** Python 3, Bash
-*   **Security Tools:** Burp Suite, Nmap, Metasploit, Linux CLI
-*   **Development:** Object-Oriented Programming (OOP), Git, VS Code, `cryptography`
+*   **OS & Environments:** Linux (Kali, Debian), Windows
+*   **Security:** Burp Suite, Nmap, Metasploit
+*   **Dev Tools:** Git, VS Code, Object-Oriented Programming (OOP)
 
 ### 📈 CV & Contact info
 *   **Resume/CV:**[Read my full CV](https://github.com/nickbregadze/theshrico/blob/main/CV.pdf)
