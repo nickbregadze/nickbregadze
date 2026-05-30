@@ -1,6 +1,6 @@
 # Hi, I'm Nick. 👋
 
-Pentester and aspiring Software engineer from Tbilisi, Georgia. Heading to BTU for CS & AI this Fall.
+Pentester and aspiring Software engineer from Tbilisi, Georgia.
 
 I started in offensive security—learning how systems break. Now, I'm focused on software engineering to build secure, privacy-first systems. 
 
