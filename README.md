@@ -1,8 +1,8 @@
 # Hi, I'm Nick. 👋
 
-Pentester and aspiring Software engineer from Tbilisi, Georgia.
+**Incoming Computer Science Student @ TSU | Software Developer & Pentester**
 
-I started in offensive security—learning how systems break. Now, I'm focused on software engineering to build secure, privacy-first systems. 
+I started my journey in offensive security—learning exactly how systems break. Now, I'm applying that security-first mindset to software engineering, focusing on Data Privacy, Cryptography, and building resilient tools.
 
 ### 🛡️ Security & Pentesting
 *   **[SCSA Certification](https://github.com/nickbregadze/nickbregadze/blob/main/CV.pdf):** Penetration testing specialization under ethical hacker Sergei Simonov.
